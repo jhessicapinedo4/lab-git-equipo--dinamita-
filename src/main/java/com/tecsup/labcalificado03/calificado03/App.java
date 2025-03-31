@@ -5,6 +5,6 @@ package com.tecsup.labcalificado03.calificado03;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hola, hice el primer cambio");
+        System.out.println("Hola, hice el primer cambio.");
     }
 }
